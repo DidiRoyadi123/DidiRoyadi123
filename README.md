@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DidiRoyadi123
 - 👀 I’m interested in Frontend web programing
 - 🌱 I’m currently learning Vue Js and Cyber Security
-- 📫 How to reach me :
-- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 085624251910 
+- 📫 How to reach me : 
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> didiroyadi123@gmail.com
 - <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> https://medium.com/@didiroyadi123
 
